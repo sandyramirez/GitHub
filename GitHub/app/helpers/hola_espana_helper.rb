@@ -1,2 +1,0 @@
-module HolaEspanaHelper
-end
