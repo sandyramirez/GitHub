@@ -1,4 +1,8 @@
 GitHub::Application.routes.draw do
+  get "paginas/home"
+
+  get "paginas/galeria"
+
   get "uno_mas/conctatos"
 
   get "hola_mundo/index"
