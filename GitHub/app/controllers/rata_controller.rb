@@ -1,0 +1,2 @@
+class RataController < ApplicationController
+end
