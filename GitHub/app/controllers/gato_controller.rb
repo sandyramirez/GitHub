@@ -1,0 +1,2 @@
+class GatoController < ApplicationController
+end
