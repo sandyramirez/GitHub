@@ -1,0 +1,2 @@
+module UnoMasHelper
+end
