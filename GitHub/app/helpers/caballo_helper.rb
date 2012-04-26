@@ -1,0 +1,2 @@
+module CaballoHelper
+end
