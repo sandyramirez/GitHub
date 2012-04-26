@@ -1,0 +1,2 @@
+class PerroController < ApplicationController
+end
