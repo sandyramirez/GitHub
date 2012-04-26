@@ -1,4 +1,8 @@
 GitHub::Application.routes.draw do
+  get "qr_code/index"
+
+  get "qr_code/modificar"
+
   get "paginas/home"
 
   get "paginas/galeria"
