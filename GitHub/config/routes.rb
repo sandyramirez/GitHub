@@ -1,4 +1,6 @@
 GitHub::Application.routes.draw do
+  get "hola_mundo/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
