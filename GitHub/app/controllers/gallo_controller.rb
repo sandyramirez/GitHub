@@ -1,0 +1,2 @@
+class GalloController < ApplicationController
+end
