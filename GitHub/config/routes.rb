@@ -1,4 +1,10 @@
 GitHub::Application.routes.draw do
+  get "usuario/new"
+
+  get "usuario/edit"
+
+  get "usuario/del"
+
   get "qr_code/index"
 
   get "qr_code/modificar"
